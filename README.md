@@ -60,10 +60,34 @@ void loop() {
 ### Description & Code
 
 ```C++
-Code Goes Here
+int ledPin = 13;
+int blinkTime = 500;
+
+void setup()
+{
+  pinMode(ledPin, OUTPUT);
+  blinkyBlinky(5, blinkTime); // 5 is number of blinks, blinkTime is the milliseconds in each state from above: int blinkTime = 500;
+}
+
+void loop()
+{
+  //
+}
+
+void blinkyBlinky(int repeats, int time)
+{
+  for (int i = 0; i < repeats; i++)
+  {
+    digitalWrite(ledPin, HIGH);
+    delay(time);
+    digitalWrite(ledPin, LOW);
+    delay(time);
+  }
+}
 ```
 
 ### Evidence
+[here is my code in arduino create] https://create.arduino.cc/editor/ljennin23/bc0252e0-3b0a-4cd7-9429-e219adb2909f 
 
 ### Image or Wiring
 
