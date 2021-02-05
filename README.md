@@ -155,3 +155,41 @@ https://create.arduino.cc/editor/ljennin23/9015e9cc-f054-4798-8797-6e66fcd742d5
 
 I had trouble with this assignment and had to ask Mr. Helmstetter to help me. He gave me his code and looked over it to make sure everything made sense and it did. This code was very similar to the finite LED blink, and we had to do a if statement to make sure the blinkng gets as fast as possible. then I i figured it out.
 
+## OneButtonOneLED
+
+### Description & Code
+
+
+### Evidence
+ 
+
+### Image or Wiring
+
+
+### Reflection
+
+## TwoButtonTwoLED
+
+### Description & Code
+
+
+### Evidence
+ 
+
+### Image or Wiring
+
+
+### Reflection
+
+## Servo
+
+### Description & Code
+
+
+### Evidence
+ 
+
+### Image or Wiring
+
+
+### Reflection
