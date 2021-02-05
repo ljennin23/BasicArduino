@@ -321,15 +321,12 @@ void loop() {
 }
 Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/blob/main/README.md) for the link
 
-
 ### Evidence
 https://create.arduino.cc/editor/ljennin23/39106641-522c-4079-a6a1-74ffe3ffd8f7
  
-
 ### Image or Wiring
 <img src="https://robojax.com/learn/arduino/robojax-servo-push-button.png" />
 Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/blob/main/README.md) for the link
-
 
 ### Reflection
 Tis code was more challenging to understand I had to look over it and use google to figure out what each line means. In the end I firgured it out even if this was challenging for me.
