@@ -6,6 +6,10 @@ I'm going to learn how to use an Arduino, and make awesome things with it!
 * [TableOfContents](#TableOfContents)
 * [HelloArduino](#HelloArduino)
 * [FiniteLEDBlink](#FiniteLEDBlink)
+* [VariableLEDBlink](#VariableLEDBlink)
+* [FiniteLEDBlink](#FiniteLEDBlink)
+* [FiniteLEDBlink](#FiniteLEDBlink)
+
 
 ## HelloArduino
 
