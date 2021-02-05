@@ -197,7 +197,7 @@ Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/b
 
 ### Reflection
 
-This Assignment was very challenging, and i am still working of correcting the wiring. I understand Dominick's code well, the if statement in his code states when the  button is pushed the Led turns on. 
+This Assignment was very challenging, and i am still working of correcting the wiring. I understand Dominick's code well, the if statement in his code states when the  button is pushed the Led turns on. Be sure to notice that the digital write on goes to LOW to say that if it the button is not pressed it is off. This code is farely easy to understand. 
 
 
 
@@ -258,12 +258,12 @@ Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/b
 
 
 ### Reflection
-This was just the same as the One button One LED except it was doubled. The code makes sense in the sense that you neede to create a button Pin 2 for the second button. This was relatively hard code to understand but overall makes sense.
+This was just the same as the One button One LED except it was doubled. The code makes sense in the sense that you neede to create a button Pin 2 for the second button. This was relatively hard code to understand but overall makes sense. 
 
 ## Servo
 
 ### Description & Code
-In this assignment we were asked to make a servo turn one way when one button is pushed, and go the other way when the second button is pushed. This is similar to the two button two led but instead of Leds you have a servo.
+In this assignment we were asked to make a servo turn one way when one button is pushed, and go the other way when the second button is pushed. This is similar to the two button two led but instead of Leds you have a servo. This code was obviously more complicated but using google to find what each line meant helped me figure it out. I had 
 
 ```C++
  #include <Servo.h>
@@ -333,4 +333,5 @@ https://create.arduino.cc/editor/ljennin23/39106641-522c-4079-a6a1-74ffe3ffd8f7
 Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/blob/main/README.md) for the link
 
 ### Reflection
-Tis code was more challenging to understand I had to look over it and use google to figure out what each line means. In the end I firgured it out even if this was challenging for me.
+This code was more challenging to understand I had to look over it and use google to figure out what each line means. In the end I firgured it out even if this was challenging for me. Figuring out what the agles meant in the code was probably the most challenging part. Ths was challenging because we have never used code like that before. In the end I realized that the angle meant the agle at which the servo would rotate. 
+
