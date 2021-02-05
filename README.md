@@ -206,6 +206,7 @@ This Assignment was very challenging, and i am still working of correcting the w
 ### Description & Code
 This was similar to the One button one LED except it was doubled.
 
+```C++
 void setup() {
   // LED pin as an output:
   pinMode(ledPin1, OUTPUT);
@@ -243,6 +244,7 @@ void loop() {
   }
 }
 ```
+
 Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/blob/main/README.md) for the link
 
 
@@ -263,6 +265,7 @@ This was just the same as the One button One LED except it was doubled. The code
 ### Description & Code
 In this assignment we were asked to make a servo turn one way when one button is pushed, and go the other way when the second button is pushed. This is similar to the two button two led but instead of Leds you have a servo.
 
+```C++
  #include <Servo.h>
 
 Servo myservo;  // my servo
@@ -317,6 +320,7 @@ void loop() {
   delay(100); // waits for the servo to get there
   }// 
 
+```
   
 }
 Credit goes to [Dominick Cafferillo](https://github.com/dcaffer07/BasicArduino/blob/main/README.md) for the link
